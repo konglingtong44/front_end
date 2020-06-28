@@ -1,2 +1,2 @@
 # front_end
-front_end_prtactise
+front_end_practise
